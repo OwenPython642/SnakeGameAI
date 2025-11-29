@@ -1,4 +1,4 @@
-Toi qui te reconnaîtras. Oui, il y a des années de recherche derrière le DL/ML/RL, mais ça ne veut pas dire que c’est compliqué d’en coder un soi-même. En vrai, tu relies surtout des modules déjà prêts.
+Toi qui te reconnaîtras. Oui, il y a des années de recherche derrière le DL/ML/RL, mais ça ne veut pas dire que c’est compliqué d’en coder un soi-même. En réalité, tu utilise surtout des modules déjà prêts.
 
 Niveau difficulté des libs courantes :
 
